@@ -95,15 +95,11 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/realcolor">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
+<a href="mailto:echodev67@email.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
