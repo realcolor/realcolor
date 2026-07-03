@@ -1,122 +1,96 @@
-<div align="center">
-
-# 👋 Hi, I'm Kacper
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React;Always+learning+new+technologies;Welcome+to+my+GitHub!" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate about building modern web applications
-- 🌱 Currently learning **AI, Cloud & DevOps**
-- ⚡ I enjoy solving real-world problems with code
-- 🎯 Goal: Build software that people actually love to use
-- ☕ Coffee + Music + Code = Perfect day
-
----
-
-## 🛠 Tech Stack
+# 👋 Hi, I'm **realcolor**
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+TypeScript+%7C+React;AI+%7C+Cloud+%7C+Docker;Welcome+to+my+GitHub!" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,express,django,fastapi,html,css,tailwind,bootstrap,mysql,postgres,mongodb,docker,linux,git,github,vscode&perline=7" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 About Me
+
+```txt
+> whoami
+realcolor
+
+> status
+Building cool things.
+
+> interests
+AI • Full Stack • Cloud • Open Source
+```
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,git,github,postgres,mongodb,redis,vscode&perline=6"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=realcolor&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realcolor&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=realcolor&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realcolor&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=realcolor&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
 
-<p align="center">
+> Enable the GitHub Action `Platane/snk` to generate this image.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
+```md
+![Snake](https://raw.githubusercontent.com/realcolor/realcolor/output/github-contribution-grid-snake-dark.svg)
+```
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🚀 Project One | Modern Full Stack application |
-| 🤖 AI Project | Artificial Intelligence project |
-| 🌐 Portfolio | Personal website |
-| 📱 Mobile App | Cross-platform application |
+| 🤖 AI Project | Artificial Intelligence |
+| 🌐 Web App | Modern React application |
+| ⚡ API | Fast backend |
+| ☁️ Cloud | Docker deployment |
 
 ---
 
-## 🌍 Connect with me
+# 🌍 Connect
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<a href="https://github.com/realcolor"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=realcolor&style=for-the-badge&color=blueviolet"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+<p align="center">
 
-### ⭐ Thanks for visiting my profile!
+> **Code. Learn. Build. Repeat.**
 
-*"Code. Learn. Build. Repeat."*
+⭐ Thanks for visiting!
 
-</div>
+</p>
